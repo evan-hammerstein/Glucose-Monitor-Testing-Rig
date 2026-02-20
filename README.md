@@ -1,8 +1,9 @@
 # Design and Development of a Test Rig for Continuous Glucose Monitors (CGM)
 
-**Associated Presentations and Full Project Report (Release):
+**Associated Presentations and Full Project Report (Release):**
+
 https://github.com/evan-hammerstein/Glucose-Monitor-Testing-Rig/releases/tag/Release
-https://prezi.com/p/qimv-nsshvhj/?present=1**
+https://prezi.com/p/qimv-nsshvhj/?present=1
 
 Imperial College London
 MEng Bioengineering Final Year Project
